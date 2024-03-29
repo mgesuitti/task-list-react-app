@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Task List
 
 A simple React application using TypeScript that displays a list of tasks fetched from a mock GraphQL server
 
