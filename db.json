@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        { "id": 1, "title": "Create a React.js new Repo", "completed": true },
+        { "id": 2, "title": "Write the code", "completed": true },
+        { "id": 3, "title": "Wait for testing", "completed": false }
+    ]
+}
