@@ -4,13 +4,10 @@ import ListItem from "@mui/material/ListItem";
 import ListItemText from "@mui/material/ListItemText";
 import Checkbox from "@mui/material/Checkbox";
 import styles from "./TaskItem.module.scss";
+import { Task } from "../../models/task";
 
 interface TaskItemProps {
-    task: {
-        id: string;
-        title: string;
-        completed: boolean;
-    };
+    task: Task;
     onMarkCompleted: (id: string) => void;
 }
 
