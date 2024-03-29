@@ -2,7 +2,7 @@
 
 A simple React application using TypeScript that displays a list of tasks fetched from a mock GraphQL server
 
-![App Screenshot](/app-screenshot.png)
+![App Screenshot](/screenshot.png)
 
 Before running the project you have to set up the mock GraphQL server:
 
